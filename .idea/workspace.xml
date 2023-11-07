@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9db8987-4ebb-4e66-a8ed-958a3ba0c1ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MYSQL/src/BT/ss5/SS5_bt1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYSQL/src/BT/ss5/ss5_bt2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYSQL/src/ON_CLASS/ss5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MYSQL/src/ON_CLASS/ss6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/java/com/example/ss6jv05/AccountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/java/com/example/ss6jv05/DemoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/java/com/example/ss6jv05/DiscountCalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/java/com/example/ss6jv05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/java/com/example/ss6jv05/StudentsServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/webapp/account.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/webapp/accountRst.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/webapp/demo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/webapp/discountCal.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6-jv05/src/main/webapp/student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MYSQL/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MYSQL/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MYSQL/src/BTTH.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MYSQL/src/TH/ss5/BTTH.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2XqDpTZtYlqXXhX9JZomUfvfB11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/aquar/Desktop/RA-SQL",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9db8987-4ebb-4e66-a8ed-958a3ba0c1ef" name="Changes" comment="" />
+      <created>1699347898530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699347898530</updated>
+      <workItem from="1699347899736" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
